@@ -28,10 +28,10 @@
 		"latex"
 	],
 	"devDependencies": {
-		"@testing-library/react": "^9.5.0",
+		"@testing-library/react": "^8.0.7",
 		"@types/jest": "^24.0.16",
-		"@types/react": "^16.13.1",
-		"@types/react-dom": "^16.13.1",
+		"@types/react": "^16.7.22",
+		"@types/react-dom": "^16.0.11",
 		"coveralls": "^3.0.5",
 		"identity-obj-proxy": "^3.0.0",
 		"jest": "^25.2.0",
